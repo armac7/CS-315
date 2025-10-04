@@ -1,0 +1,16 @@
+C:\Users\wmcdonald\source\repos\AboutProgram\AboutProgram\bin\Debug\net8.0-windows\AboutProgram.exe
+C:\Users\wmcdonald\source\repos\AboutProgram\AboutProgram\bin\Debug\net8.0-windows\AboutProgram.deps.json
+C:\Users\wmcdonald\source\repos\AboutProgram\AboutProgram\bin\Debug\net8.0-windows\AboutProgram.runtimeconfig.json
+C:\Users\wmcdonald\source\repos\AboutProgram\AboutProgram\bin\Debug\net8.0-windows\AboutProgram.dll
+C:\Users\wmcdonald\source\repos\AboutProgram\AboutProgram\bin\Debug\net8.0-windows\AboutProgram.pdb
+C:\Users\wmcdonald\source\repos\AboutProgram\AboutProgram\obj\Debug\net8.0-windows\AboutProgram.AboutForm.resources
+C:\Users\wmcdonald\source\repos\AboutProgram\AboutProgram\obj\Debug\net8.0-windows\AboutProgram.csproj.GenerateResource.cache
+C:\Users\wmcdonald\source\repos\AboutProgram\AboutProgram\obj\Debug\net8.0-windows\AboutProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wmcdonald\source\repos\AboutProgram\AboutProgram\obj\Debug\net8.0-windows\AboutProgram.AssemblyInfoInputs.cache
+C:\Users\wmcdonald\source\repos\AboutProgram\AboutProgram\obj\Debug\net8.0-windows\AboutProgram.AssemblyInfo.cs
+C:\Users\wmcdonald\source\repos\AboutProgram\AboutProgram\obj\Debug\net8.0-windows\AboutProgram.csproj.CoreCompileInputs.cache
+C:\Users\wmcdonald\source\repos\AboutProgram\AboutProgram\obj\Debug\net8.0-windows\AboutProgram.dll
+C:\Users\wmcdonald\source\repos\AboutProgram\AboutProgram\obj\Debug\net8.0-windows\refint\AboutProgram.dll
+C:\Users\wmcdonald\source\repos\AboutProgram\AboutProgram\obj\Debug\net8.0-windows\AboutProgram.pdb
+C:\Users\wmcdonald\source\repos\AboutProgram\AboutProgram\obj\Debug\net8.0-windows\AboutProgram.genruntimeconfig.cache
+C:\Users\wmcdonald\source\repos\AboutProgram\AboutProgram\obj\Debug\net8.0-windows\ref\AboutProgram.dll

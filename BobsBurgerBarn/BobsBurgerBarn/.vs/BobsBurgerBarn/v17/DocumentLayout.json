@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wmcdonald\\source\\repos\\BobsBurgerBarn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F474EC-1D93-4AD4-92B1-F6A2D7A42E35}|BobsBurgerBarn\\BobsBurgerBarn.csproj|c:\\users\\wmcdonald\\source\\repos\\bobsburgerbarn\\bobsburgerbarn\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A5F474EC-1D93-4AD4-92B1-F6A2D7A42E35}|BobsBurgerBarn\\BobsBurgerBarn.csproj|solutionrelative:bobsburgerbarn\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F474EC-1D93-4AD4-92B1-F6A2D7A42E35}|BobsBurgerBarn\\BobsBurgerBarn.csproj|c:\\users\\wmcdonald\\source\\repos\\bobsburgerbarn\\bobsburgerbarn\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F474EC-1D93-4AD4-92B1-F6A2D7A42E35}|BobsBurgerBarn\\BobsBurgerBarn.csproj|solutionrelative:bobsburgerbarn\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F474EC-1D93-4AD4-92B1-F6A2D7A42E35}|BobsBurgerBarn\\BobsBurgerBarn.csproj|c:\\users\\wmcdonald\\source\\repos\\bobsburgerbarn\\bobsburgerbarn\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A5F474EC-1D93-4AD4-92B1-F6A2D7A42E35}|BobsBurgerBarn\\BobsBurgerBarn.csproj|solutionrelative:bobsburgerbarn\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F474EC-1D93-4AD4-92B1-F6A2D7A42E35}|BobsBurgerBarn\\BobsBurgerBarn.csproj|c:\\users\\wmcdonald\\source\\repos\\bobsburgerbarn\\bobsburgerbarn\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F474EC-1D93-4AD4-92B1-F6A2D7A42E35}|BobsBurgerBarn\\BobsBurgerBarn.csproj|solutionrelative:bobsburgerbarn\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F474EC-1D93-4AD4-92B1-F6A2D7A42E35}|BobsBurgerBarn\\BobsBurgerBarn.csproj|c:\\users\\wmcdonald\\source\\repos\\bobsburgerbarn\\bobsburgerbarn\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A5F474EC-1D93-4AD4-92B1-F6A2D7A42E35}|BobsBurgerBarn\\BobsBurgerBarn.csproj|solutionrelative:bobsburgerbarn\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F474EC-1D93-4AD4-92B1-F6A2D7A42E35}|BobsBurgerBarn\\BobsBurgerBarn.csproj|c:\\users\\wmcdonald\\source\\repos\\bobsburgerbarn\\bobsburgerbarn\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F474EC-1D93-4AD4-92B1-F6A2D7A42E35}|BobsBurgerBarn\\BobsBurgerBarn.csproj|solutionrelative:bobsburgerbarn\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\wmcdonald\\source\\repos\\BobsBurgerBarn\\BobsBurgerBarn\\Form1.cs",
+              "RelativeDocumentMoniker": "BobsBurgerBarn\\Form1.cs",
+              "ToolTip": "C:\\Users\\wmcdonald\\source\\repos\\BobsBurgerBarn\\BobsBurgerBarn\\Form1.cs [Design]",
+              "RelativeToolTip": "BobsBurgerBarn\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T17:32:00.898Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\wmcdonald\\source\\repos\\BobsBurgerBarn\\BobsBurgerBarn\\Form1.cs",
+              "RelativeDocumentMoniker": "BobsBurgerBarn\\Form1.cs",
+              "ToolTip": "C:\\Users\\wmcdonald\\source\\repos\\BobsBurgerBarn\\BobsBurgerBarn\\Form1.cs",
+              "RelativeToolTip": "BobsBurgerBarn\\Form1.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAADwvyMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T17:45:37.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\wmcdonald\\source\\repos\\BobsBurgerBarn\\BobsBurgerBarn\\Form2.cs",
+              "RelativeDocumentMoniker": "BobsBurgerBarn\\Form2.cs",
+              "ToolTip": "C:\\Users\\wmcdonald\\source\\repos\\BobsBurgerBarn\\BobsBurgerBarn\\Form2.cs [Design]",
+              "RelativeToolTip": "BobsBurgerBarn\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T17:37:34.682Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\wmcdonald\\source\\repos\\BobsBurgerBarn\\BobsBurgerBarn\\Form2.cs",
+              "RelativeDocumentMoniker": "BobsBurgerBarn\\Form2.cs",
+              "ToolTip": "C:\\Users\\wmcdonald\\source\\repos\\BobsBurgerBarn\\BobsBurgerBarn\\Form2.cs",
+              "RelativeToolTip": "BobsBurgerBarn\\Form2.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwDAAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T17:52:41.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\wmcdonald\\source\\repos\\BobsBurgerBarn\\BobsBurgerBarn\\Form3.cs",
+              "RelativeDocumentMoniker": "BobsBurgerBarn\\Form3.cs",
+              "ToolTip": "C:\\Users\\wmcdonald\\source\\repos\\BobsBurgerBarn\\BobsBurgerBarn\\Form3.cs [Design]",
+              "RelativeToolTip": "BobsBurgerBarn\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T17:40:49.972Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\wmcdonald\\source\\repos\\BobsBurgerBarn\\BobsBurgerBarn\\Form3.cs",
+              "RelativeDocumentMoniker": "BobsBurgerBarn\\Form3.cs",
+              "ToolTip": "C:\\Users\\wmcdonald\\source\\repos\\BobsBurgerBarn\\BobsBurgerBarn\\Form3.cs",
+              "RelativeToolTip": "BobsBurgerBarn\\Form3.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwD8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T17:46:09.676Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

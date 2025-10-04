@@ -1,0 +1,17 @@
+C:\Users\wmcdonald\source\repos\AnimalsApp\AnimalsApp\bin\Debug\net8.0-windows\AnimalsApp.exe
+C:\Users\wmcdonald\source\repos\AnimalsApp\AnimalsApp\bin\Debug\net8.0-windows\AnimalsApp.deps.json
+C:\Users\wmcdonald\source\repos\AnimalsApp\AnimalsApp\bin\Debug\net8.0-windows\AnimalsApp.runtimeconfig.json
+C:\Users\wmcdonald\source\repos\AnimalsApp\AnimalsApp\bin\Debug\net8.0-windows\AnimalsApp.dll
+C:\Users\wmcdonald\source\repos\AnimalsApp\AnimalsApp\bin\Debug\net8.0-windows\AnimalsApp.pdb
+C:\Users\wmcdonald\source\repos\AnimalsApp\AnimalsApp\obj\Debug\net8.0-windows\AnimalsApp.Form1.resources
+C:\Users\wmcdonald\source\repos\AnimalsApp\AnimalsApp\obj\Debug\net8.0-windows\AnimalsApp.csproj.GenerateResource.cache
+C:\Users\wmcdonald\source\repos\AnimalsApp\AnimalsApp\obj\Debug\net8.0-windows\AnimalsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wmcdonald\source\repos\AnimalsApp\AnimalsApp\obj\Debug\net8.0-windows\AnimalsApp.AssemblyInfoInputs.cache
+C:\Users\wmcdonald\source\repos\AnimalsApp\AnimalsApp\obj\Debug\net8.0-windows\AnimalsApp.AssemblyInfo.cs
+C:\Users\wmcdonald\source\repos\AnimalsApp\AnimalsApp\obj\Debug\net8.0-windows\AnimalsApp.csproj.CoreCompileInputs.cache
+C:\Users\wmcdonald\source\repos\AnimalsApp\AnimalsApp\obj\Debug\net8.0-windows\AnimalsApp.dll
+C:\Users\wmcdonald\source\repos\AnimalsApp\AnimalsApp\obj\Debug\net8.0-windows\refint\AnimalsApp.dll
+C:\Users\wmcdonald\source\repos\AnimalsApp\AnimalsApp\obj\Debug\net8.0-windows\AnimalsApp.pdb
+C:\Users\wmcdonald\source\repos\AnimalsApp\AnimalsApp\obj\Debug\net8.0-windows\AnimalsApp.genruntimeconfig.cache
+C:\Users\wmcdonald\source\repos\AnimalsApp\AnimalsApp\obj\Debug\net8.0-windows\ref\AnimalsApp.dll
+C:\Users\wmcdonald\source\repos\AnimalsApp\AnimalsApp\obj\Debug\net8.0-windows\AnimalsApp.Properties.Resources.resources

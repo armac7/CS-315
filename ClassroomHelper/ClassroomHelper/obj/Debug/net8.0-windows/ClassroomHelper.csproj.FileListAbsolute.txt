@@ -1,0 +1,16 @@
+C:\Users\wmcdonald\source\repos\ClassroomHelper\ClassroomHelper\obj\Debug\net8.0-windows\ClassroomHelper.Form1.resources
+C:\Users\wmcdonald\source\repos\ClassroomHelper\ClassroomHelper\obj\Debug\net8.0-windows\ClassroomHelper.csproj.GenerateResource.cache
+C:\Users\wmcdonald\source\repos\ClassroomHelper\ClassroomHelper\obj\Debug\net8.0-windows\ClassroomHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wmcdonald\source\repos\ClassroomHelper\ClassroomHelper\obj\Debug\net8.0-windows\ClassroomHelper.AssemblyInfoInputs.cache
+C:\Users\wmcdonald\source\repos\ClassroomHelper\ClassroomHelper\obj\Debug\net8.0-windows\ClassroomHelper.AssemblyInfo.cs
+C:\Users\wmcdonald\source\repos\ClassroomHelper\ClassroomHelper\obj\Debug\net8.0-windows\ClassroomHelper.csproj.CoreCompileInputs.cache
+C:\Users\wmcdonald\source\repos\ClassroomHelper\ClassroomHelper\bin\Debug\net8.0-windows\ClassroomHelper.exe
+C:\Users\wmcdonald\source\repos\ClassroomHelper\ClassroomHelper\bin\Debug\net8.0-windows\ClassroomHelper.deps.json
+C:\Users\wmcdonald\source\repos\ClassroomHelper\ClassroomHelper\bin\Debug\net8.0-windows\ClassroomHelper.runtimeconfig.json
+C:\Users\wmcdonald\source\repos\ClassroomHelper\ClassroomHelper\bin\Debug\net8.0-windows\ClassroomHelper.dll
+C:\Users\wmcdonald\source\repos\ClassroomHelper\ClassroomHelper\bin\Debug\net8.0-windows\ClassroomHelper.pdb
+C:\Users\wmcdonald\source\repos\ClassroomHelper\ClassroomHelper\obj\Debug\net8.0-windows\ClassroomHelper.dll
+C:\Users\wmcdonald\source\repos\ClassroomHelper\ClassroomHelper\obj\Debug\net8.0-windows\refint\ClassroomHelper.dll
+C:\Users\wmcdonald\source\repos\ClassroomHelper\ClassroomHelper\obj\Debug\net8.0-windows\ClassroomHelper.pdb
+C:\Users\wmcdonald\source\repos\ClassroomHelper\ClassroomHelper\obj\Debug\net8.0-windows\ClassroomHelper.genruntimeconfig.cache
+C:\Users\wmcdonald\source\repos\ClassroomHelper\ClassroomHelper\obj\Debug\net8.0-windows\ref\ClassroomHelper.dll

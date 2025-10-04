@@ -1,0 +1,16 @@
+C:\Users\wmcdonald\source\repos\HotelReservations\HotelReservations\bin\Debug\net8.0-windows\HotelReservations.exe
+C:\Users\wmcdonald\source\repos\HotelReservations\HotelReservations\bin\Debug\net8.0-windows\HotelReservations.deps.json
+C:\Users\wmcdonald\source\repos\HotelReservations\HotelReservations\bin\Debug\net8.0-windows\HotelReservations.runtimeconfig.json
+C:\Users\wmcdonald\source\repos\HotelReservations\HotelReservations\bin\Debug\net8.0-windows\HotelReservations.dll
+C:\Users\wmcdonald\source\repos\HotelReservations\HotelReservations\bin\Debug\net8.0-windows\HotelReservations.pdb
+C:\Users\wmcdonald\source\repos\HotelReservations\HotelReservations\obj\Debug\net8.0-windows\HotelReservations.Form1.resources
+C:\Users\wmcdonald\source\repos\HotelReservations\HotelReservations\obj\Debug\net8.0-windows\HotelReservations.csproj.GenerateResource.cache
+C:\Users\wmcdonald\source\repos\HotelReservations\HotelReservations\obj\Debug\net8.0-windows\HotelReservations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wmcdonald\source\repos\HotelReservations\HotelReservations\obj\Debug\net8.0-windows\HotelReservations.AssemblyInfoInputs.cache
+C:\Users\wmcdonald\source\repos\HotelReservations\HotelReservations\obj\Debug\net8.0-windows\HotelReservations.AssemblyInfo.cs
+C:\Users\wmcdonald\source\repos\HotelReservations\HotelReservations\obj\Debug\net8.0-windows\HotelReservations.csproj.CoreCompileInputs.cache
+C:\Users\wmcdonald\source\repos\HotelReservations\HotelReservations\obj\Debug\net8.0-windows\HotelReservations.dll
+C:\Users\wmcdonald\source\repos\HotelReservations\HotelReservations\obj\Debug\net8.0-windows\refint\HotelReservations.dll
+C:\Users\wmcdonald\source\repos\HotelReservations\HotelReservations\obj\Debug\net8.0-windows\HotelReservations.pdb
+C:\Users\wmcdonald\source\repos\HotelReservations\HotelReservations\obj\Debug\net8.0-windows\HotelReservations.genruntimeconfig.cache
+C:\Users\wmcdonald\source\repos\HotelReservations\HotelReservations\obj\Debug\net8.0-windows\ref\HotelReservations.dll

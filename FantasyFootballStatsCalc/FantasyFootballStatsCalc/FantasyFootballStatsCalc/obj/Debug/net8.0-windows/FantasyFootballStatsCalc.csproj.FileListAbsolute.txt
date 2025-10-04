@@ -1,0 +1,16 @@
+C:\Users\wmcdonald\source\repos\FantasyFootballStatsCalc\FantasyFootballStatsCalc\bin\Debug\net8.0-windows\FantasyFootballStatsCalc.exe
+C:\Users\wmcdonald\source\repos\FantasyFootballStatsCalc\FantasyFootballStatsCalc\bin\Debug\net8.0-windows\FantasyFootballStatsCalc.deps.json
+C:\Users\wmcdonald\source\repos\FantasyFootballStatsCalc\FantasyFootballStatsCalc\bin\Debug\net8.0-windows\FantasyFootballStatsCalc.runtimeconfig.json
+C:\Users\wmcdonald\source\repos\FantasyFootballStatsCalc\FantasyFootballStatsCalc\bin\Debug\net8.0-windows\FantasyFootballStatsCalc.dll
+C:\Users\wmcdonald\source\repos\FantasyFootballStatsCalc\FantasyFootballStatsCalc\bin\Debug\net8.0-windows\FantasyFootballStatsCalc.pdb
+C:\Users\wmcdonald\source\repos\FantasyFootballStatsCalc\FantasyFootballStatsCalc\obj\Debug\net8.0-windows\FantasyFootballStatsCalc.FFStatsCalc.resources
+C:\Users\wmcdonald\source\repos\FantasyFootballStatsCalc\FantasyFootballStatsCalc\obj\Debug\net8.0-windows\FantasyFootballStatsCalc.csproj.GenerateResource.cache
+C:\Users\wmcdonald\source\repos\FantasyFootballStatsCalc\FantasyFootballStatsCalc\obj\Debug\net8.0-windows\FantasyFootballStatsCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wmcdonald\source\repos\FantasyFootballStatsCalc\FantasyFootballStatsCalc\obj\Debug\net8.0-windows\FantasyFootballStatsCalc.AssemblyInfoInputs.cache
+C:\Users\wmcdonald\source\repos\FantasyFootballStatsCalc\FantasyFootballStatsCalc\obj\Debug\net8.0-windows\FantasyFootballStatsCalc.AssemblyInfo.cs
+C:\Users\wmcdonald\source\repos\FantasyFootballStatsCalc\FantasyFootballStatsCalc\obj\Debug\net8.0-windows\FantasyFootballStatsCalc.csproj.CoreCompileInputs.cache
+C:\Users\wmcdonald\source\repos\FantasyFootballStatsCalc\FantasyFootballStatsCalc\obj\Debug\net8.0-windows\FantasyFootballStatsCalc.dll
+C:\Users\wmcdonald\source\repos\FantasyFootballStatsCalc\FantasyFootballStatsCalc\obj\Debug\net8.0-windows\refint\FantasyFootballStatsCalc.dll
+C:\Users\wmcdonald\source\repos\FantasyFootballStatsCalc\FantasyFootballStatsCalc\obj\Debug\net8.0-windows\FantasyFootballStatsCalc.pdb
+C:\Users\wmcdonald\source\repos\FantasyFootballStatsCalc\FantasyFootballStatsCalc\obj\Debug\net8.0-windows\FantasyFootballStatsCalc.genruntimeconfig.cache
+C:\Users\wmcdonald\source\repos\FantasyFootballStatsCalc\FantasyFootballStatsCalc\obj\Debug\net8.0-windows\ref\FantasyFootballStatsCalc.dll

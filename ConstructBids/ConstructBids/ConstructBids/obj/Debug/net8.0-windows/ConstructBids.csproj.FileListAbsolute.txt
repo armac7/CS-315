@@ -1,0 +1,16 @@
+C:\Users\wmcdonald\source\repos\ConstructBids\ConstructBids\bin\Debug\net8.0-windows\ConstructBids.exe
+C:\Users\wmcdonald\source\repos\ConstructBids\ConstructBids\bin\Debug\net8.0-windows\ConstructBids.deps.json
+C:\Users\wmcdonald\source\repos\ConstructBids\ConstructBids\bin\Debug\net8.0-windows\ConstructBids.runtimeconfig.json
+C:\Users\wmcdonald\source\repos\ConstructBids\ConstructBids\bin\Debug\net8.0-windows\ConstructBids.dll
+C:\Users\wmcdonald\source\repos\ConstructBids\ConstructBids\bin\Debug\net8.0-windows\ConstructBids.pdb
+C:\Users\wmcdonald\source\repos\ConstructBids\ConstructBids\obj\Debug\net8.0-windows\ConstructBids.csproj.GenerateResource.cache
+C:\Users\wmcdonald\source\repos\ConstructBids\ConstructBids\obj\Debug\net8.0-windows\ConstructBids.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wmcdonald\source\repos\ConstructBids\ConstructBids\obj\Debug\net8.0-windows\ConstructBids.AssemblyInfoInputs.cache
+C:\Users\wmcdonald\source\repos\ConstructBids\ConstructBids\obj\Debug\net8.0-windows\ConstructBids.AssemblyInfo.cs
+C:\Users\wmcdonald\source\repos\ConstructBids\ConstructBids\obj\Debug\net8.0-windows\ConstructBids.csproj.CoreCompileInputs.cache
+C:\Users\wmcdonald\source\repos\ConstructBids\ConstructBids\obj\Debug\net8.0-windows\ConstructBids.dll
+C:\Users\wmcdonald\source\repos\ConstructBids\ConstructBids\obj\Debug\net8.0-windows\refint\ConstructBids.dll
+C:\Users\wmcdonald\source\repos\ConstructBids\ConstructBids\obj\Debug\net8.0-windows\ConstructBids.pdb
+C:\Users\wmcdonald\source\repos\ConstructBids\ConstructBids\obj\Debug\net8.0-windows\ConstructBids.genruntimeconfig.cache
+C:\Users\wmcdonald\source\repos\ConstructBids\ConstructBids\obj\Debug\net8.0-windows\ref\ConstructBids.dll
+C:\Users\wmcdonald\source\repos\ConstructBids\ConstructBids\obj\Debug\net8.0-windows\ConstructBids.MainForm.resources
