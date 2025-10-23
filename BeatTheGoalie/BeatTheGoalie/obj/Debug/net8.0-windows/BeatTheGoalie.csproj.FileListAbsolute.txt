@@ -1,0 +1,17 @@
+E:\Code\C#\CS-315\BeatTheGoalie\BeatTheGoalie\obj\Debug\net8.0-windows\BeatTheGoalie.MainForm.resources
+E:\Code\C#\CS-315\BeatTheGoalie\BeatTheGoalie\obj\Debug\net8.0-windows\BeatTheGoalie.csproj.GenerateResource.cache
+E:\Code\C#\CS-315\BeatTheGoalie\BeatTheGoalie\obj\Debug\net8.0-windows\BeatTheGoalie.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\C#\CS-315\BeatTheGoalie\BeatTheGoalie\obj\Debug\net8.0-windows\BeatTheGoalie.AssemblyInfoInputs.cache
+E:\Code\C#\CS-315\BeatTheGoalie\BeatTheGoalie\obj\Debug\net8.0-windows\BeatTheGoalie.AssemblyInfo.cs
+E:\Code\C#\CS-315\BeatTheGoalie\BeatTheGoalie\obj\Debug\net8.0-windows\BeatTheGoalie.csproj.CoreCompileInputs.cache
+E:\Code\C#\CS-315\BeatTheGoalie\BeatTheGoalie\obj\Debug\net8.0-windows\BeatTheGoalie.sourcelink.json
+E:\Code\C#\CS-315\BeatTheGoalie\BeatTheGoalie\bin\Debug\net8.0-windows\BeatTheGoalie.exe
+E:\Code\C#\CS-315\BeatTheGoalie\BeatTheGoalie\bin\Debug\net8.0-windows\BeatTheGoalie.deps.json
+E:\Code\C#\CS-315\BeatTheGoalie\BeatTheGoalie\bin\Debug\net8.0-windows\BeatTheGoalie.runtimeconfig.json
+E:\Code\C#\CS-315\BeatTheGoalie\BeatTheGoalie\bin\Debug\net8.0-windows\BeatTheGoalie.dll
+E:\Code\C#\CS-315\BeatTheGoalie\BeatTheGoalie\bin\Debug\net8.0-windows\BeatTheGoalie.pdb
+E:\Code\C#\CS-315\BeatTheGoalie\BeatTheGoalie\obj\Debug\net8.0-windows\BeatTheGoalie.dll
+E:\Code\C#\CS-315\BeatTheGoalie\BeatTheGoalie\obj\Debug\net8.0-windows\refint\BeatTheGoalie.dll
+E:\Code\C#\CS-315\BeatTheGoalie\BeatTheGoalie\obj\Debug\net8.0-windows\BeatTheGoalie.pdb
+E:\Code\C#\CS-315\BeatTheGoalie\BeatTheGoalie\obj\Debug\net8.0-windows\BeatTheGoalie.genruntimeconfig.cache
+E:\Code\C#\CS-315\BeatTheGoalie\BeatTheGoalie\obj\Debug\net8.0-windows\ref\BeatTheGoalie.dll

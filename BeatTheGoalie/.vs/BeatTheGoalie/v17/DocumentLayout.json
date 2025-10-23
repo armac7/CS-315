@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Code\\C#\\CS-315\\BeatTheGoalie\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CF19750-EFBC-45ED-AA1A-47D05D62F775}|BeatTheGoalie\\BeatTheGoalie.csproj|e:\\code\\c#\\cs-315\\beatthegoalie\\beatthegoalie\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7CF19750-EFBC-45ED-AA1A-47D05D62F775}|BeatTheGoalie\\BeatTheGoalie.csproj|solutionrelative:beatthegoalie\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CF19750-EFBC-45ED-AA1A-47D05D62F775}|BeatTheGoalie\\BeatTheGoalie.csproj|e:\\code\\c#\\cs-315\\beatthegoalie\\beatthegoalie\\rink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CF19750-EFBC-45ED-AA1A-47D05D62F775}|BeatTheGoalie\\BeatTheGoalie.csproj|solutionrelative:beatthegoalie\\rink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CF19750-EFBC-45ED-AA1A-47D05D62F775}|BeatTheGoalie\\BeatTheGoalie.csproj|e:\\code\\c#\\cs-315\\beatthegoalie\\beatthegoalie\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CF19750-EFBC-45ED-AA1A-47D05D62F775}|BeatTheGoalie\\BeatTheGoalie.csproj|solutionrelative:beatthegoalie\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CF19750-EFBC-45ED-AA1A-47D05D62F775}|BeatTheGoalie\\BeatTheGoalie.csproj|e:\\code\\c#\\cs-315\\beatthegoalie\\beatthegoalie\\goalstick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CF19750-EFBC-45ED-AA1A-47D05D62F775}|BeatTheGoalie\\BeatTheGoalie.csproj|solutionrelative:beatthegoalie\\goalstick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CF19750-EFBC-45ED-AA1A-47D05D62F775}|BeatTheGoalie\\BeatTheGoalie.csproj|e:\\code\\c#\\cs-315\\beatthegoalie\\beatthegoalie\\puck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CF19750-EFBC-45ED-AA1A-47D05D62F775}|BeatTheGoalie\\BeatTheGoalie.csproj|solutionrelative:beatthegoalie\\puck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rink.cs",
+              "DocumentMoniker": "E:\\Code\\C#\\CS-315\\BeatTheGoalie\\BeatTheGoalie\\Rink.cs",
+              "RelativeDocumentMoniker": "BeatTheGoalie\\Rink.cs",
+              "ToolTip": "E:\\Code\\C#\\CS-315\\BeatTheGoalie\\BeatTheGoalie\\Rink.cs",
+              "RelativeToolTip": "BeatTheGoalie\\Rink.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAowFAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T14:43:01.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Puck.cs",
+              "DocumentMoniker": "E:\\Code\\C#\\CS-315\\BeatTheGoalie\\BeatTheGoalie\\Puck.cs",
+              "RelativeDocumentMoniker": "BeatTheGoalie\\Puck.cs",
+              "ToolTip": "E:\\Code\\C#\\CS-315\\BeatTheGoalie\\BeatTheGoalie\\Puck.cs",
+              "RelativeToolTip": "BeatTheGoalie\\Puck.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAjwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T14:42:41.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GoalStick.cs",
+              "DocumentMoniker": "E:\\Code\\C#\\CS-315\\BeatTheGoalie\\BeatTheGoalie\\GoalStick.cs",
+              "RelativeDocumentMoniker": "BeatTheGoalie\\GoalStick.cs",
+              "ToolTip": "E:\\Code\\C#\\CS-315\\BeatTheGoalie\\BeatTheGoalie\\GoalStick.cs",
+              "RelativeToolTip": "BeatTheGoalie\\GoalStick.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAwDsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T14:42:25.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\Code\\C#\\CS-315\\BeatTheGoalie\\BeatTheGoalie\\Form1.cs",
+              "RelativeDocumentMoniker": "BeatTheGoalie\\Form1.cs",
+              "ToolTip": "E:\\Code\\C#\\CS-315\\BeatTheGoalie\\BeatTheGoalie\\Form1.cs",
+              "RelativeToolTip": "BeatTheGoalie\\Form1.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAwGEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T14:41:53.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\Code\\C#\\CS-315\\BeatTheGoalie\\BeatTheGoalie\\Form1.cs",
+              "RelativeDocumentMoniker": "BeatTheGoalie\\Form1.cs",
+              "ToolTip": "E:\\Code\\C#\\CS-315\\BeatTheGoalie\\BeatTheGoalie\\Form1.cs [Design]",
+              "RelativeToolTip": "BeatTheGoalie\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T14:40:42.791Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
